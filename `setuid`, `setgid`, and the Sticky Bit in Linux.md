@@ -120,9 +120,3 @@ chmod 7777 directoryname
 
 ### Conclusion
 Understanding and properly setting `setuid`, `setgid`, and the Sticky Bit can significantly enhance your system's security and functionality. Always use these permissions carefully, as improper use can lead to security vulnerabilities.
-
-Thank you for your attention, and happy administering your Linux systems!
-
----
-
-This lecture covers the basic concepts, usage, and examples of `setuid`, `setgid`, and the Sticky Bit in Linux.
